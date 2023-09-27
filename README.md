@@ -6,6 +6,9 @@ This is the front-end for a Movie API application. It allows users to choose fro
 
 ## Technology
 Backend  : Java Spring Boot
+
 Frontend : React
+
 Database : MongoDB
+
 API      : TMDB
